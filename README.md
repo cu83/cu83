@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 📱 I’m currently working on Mobile Development
-- 🤖 I’m currently learning Artificial Intelligence
-- 🌐 I’m looking to collaborate on Internet of Things, Machine Learning, and Data Analytics
+- 📱 I’m currently working on OpenCV Applications
+- 🤖 I’m currently learning OpenCV and C++ App Development
+- 🌐 I’m looking to collaborate on BIM Automation, Image Detection, and IOT for Construction
 <!--
 **cu83/cu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
